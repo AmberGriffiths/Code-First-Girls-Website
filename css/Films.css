@@ -17,21 +17,25 @@ h2 {
   float: left;
   width: 600px;
   padding: 20px;
+  color: green;
 }
 
 .rightside {
   float: right;
   width: 600px;
   padding: 20px;
+  color: green;
   }
 .bottom-left {
     float: left;
     width: 600px;
     padding: 20px;
+    color: green;
   }
 
 .bottom-right {
     float: right;
     width: 600px;
     padding: 20px;
+    color: green;
     }
