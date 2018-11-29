@@ -9,5 +9,27 @@ h1 {
     text-align: center;
 }
 h2 {
-    text-align: center;
+  text-align: center;
+}
+.leftside {
+  float: left;
+  width: 600px;
+  padding: 20px;
+}
+
+.rightside {
+  float: right;
+  width: 600px;
+  padding: 20px;
   }
+.bottom-left {
+    float: left;
+    width: 600px;
+    padding: 20px;
+  }
+
+.bottom-right {
+    float: right;
+    width: 600px;
+    padding: 20px;
+    }
