@@ -1,10 +1,10 @@
-  body {
-    background-image: url("../images/images.jpg");
-    background-size: cover;
-  }
-  a {
-    margin: 5px 5px 5px 0px;
-  }
+body {
+  background-image: url("../images/images.jpg");
+  background-size: contain;
+}
+a {
+  margin: 5px 5px 5px 0px;
+}
 h1 {
   text-align: center;
 }
