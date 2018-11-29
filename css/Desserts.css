@@ -11,3 +11,15 @@ h1 {
 h2 {
   text-align: center;
 }
+.leftside {
+  float: left;
+}
+.rightside {
+  float: right;
+}
+.leftside2 {
+  float: left;
+}
+.rightside2 {
+  float: right;
+}
