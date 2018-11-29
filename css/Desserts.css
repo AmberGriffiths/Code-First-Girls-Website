@@ -12,14 +12,35 @@ h2 {
   text-align: center;
 }
 .leftside {
-  float: left;
+float: left;
+width: 600px;
+padding: 20px;
 }
 .rightside {
-  float: right;
+float: right;
+padding: 20px;
+width: 10%;
+height: auto;
 }
 .leftside2 {
-  float: left;
+float: left;
+padding: 20px;
+width: 10%;
+height: auto;
 }
 .rightside2 {
-  float: right;
+float: right;
+width: 600px;
+padding: 20px;
+}
+.leftside3 {
+float: left;
+width: 600px;
+padding: 20px;
+}
+.rightside3 {
+float: right;
+padding: 20px;
+width: 10%;
+height: auto;
 }
