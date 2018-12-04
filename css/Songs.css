@@ -7,8 +7,30 @@ a {
 }
 h1 {
   text-align: center;
+  color: green;
+  font-weight: bold;
 }
-h2{
+h2 {
   text-align: center;
-
+  color: red;
+}
+.row {
+  color: green;
+}
+.col-xs-3 {
+  color: green;
+}
+.col-xs-4 {
+  color: green;
+}
+.col-xs-5 {
+  color: green;
+}
+.col-xs-6 {
+  color: green;
+}
+.center iframe {
+  margin: 0 auto;
+  display: block;
+  width: 500px;
 }
