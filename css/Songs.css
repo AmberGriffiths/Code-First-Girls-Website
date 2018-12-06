@@ -14,23 +14,12 @@ h2 {
   text-align: center;
   color: red;
 }
-.row {
+p {
   color: green;
 }
-.col-xs-3 {
-  color: green;
+h2 {
+  color: red;
 }
-.col-xs-4 {
-  color: green;
-}
-.col-xs-5 {
-  color: green;
-}
-.col-xs-6 {
-  color: green;
-}
-.center iframe {
-  margin: 0 auto;
-  display: block;
-  width: 500px;
+.position {
+  text-align: center;
 }

@@ -12,11 +12,10 @@ a {
   padding: 0px 500px 0px 500px;
 }
 h1 {
+  text-align: center;
   color: red;
-  font-weight: bold;
+  margin-top: 200px;
 }
-
 p {
   color: green;
-  margin-left: 20px;
 }
