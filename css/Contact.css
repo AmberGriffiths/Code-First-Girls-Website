@@ -15,9 +15,10 @@ form {
   padding-left: 50px;
 }
 .image {
-  padding-left: 100px;
+  float: right;
+  margin-right: 300px;
   width: auto;
   height: auto;
-  max-width: 200px;
-  max-height: 200px;
+  max-width: 600px;
+  max-height: 600px;
 }
