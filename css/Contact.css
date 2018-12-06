@@ -2,3 +2,22 @@ body {
  background-image: url("../images/images.jpg");
  background-size: cover;
 }
+h1 {
+  color: green;
+  padding-left: 150px;
+  font-weight: bold;
+}
+p {
+  color: red;
+  padding-left: 50px;
+}
+form {
+  padding-left: 50px;
+}
+.image {
+  padding-left: 100px;
+  width: auto;
+  height: auto;
+  max-width: 200px;
+  max-height: 200px;
+}
