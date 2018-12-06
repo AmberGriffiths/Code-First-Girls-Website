@@ -15,7 +15,7 @@ form {
   padding-left: 50px;
 }
 .image {
-  padding-left: 100px;
+  margin-left: 100px;
   width: auto;
   height: auto;
   max-width: 200px;
