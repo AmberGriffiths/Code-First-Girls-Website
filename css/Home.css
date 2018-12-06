@@ -5,18 +5,21 @@
 a {
   margin:5px 5px 5px 0px;
 }
-.center {
-  display: block;
-  width: 550px;
-  height: auto;
-  padding: 0px 500px 0px 500px;
-}
+
 h1 {
   text-align: center;
   color: red;
-  margin-top: 200px;
+  margin-top: 75px;
   font-weight: bold;
 }
 p {
   color: green;
+}
+.image{
+  height:auto;
+  width:auto;
+  max-width:700px;
+  max-height:600px;
+  float: right;
+  margin-right: 100px;
 }
